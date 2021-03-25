@@ -81,6 +81,10 @@ Tecnología
 - [Techtopias](https://techtopias.com/): newsletter sobre privacidad.
 - [Cryptomator](https://cryptomator.org/downloads/)
 
+## NAS
+
+- [NAS Casero con Raspberry Pi (incluye varios pasos y Docker)](https://diario.mosqueteroweb.eu/2020/11/nas-casero-con-una-raspberry-pi-o-un.html): para montar un NAS casero, con OMV y una Raspberry Pi.
+
 ## Citas
 
 «Ante las personas que esgrimen el argumento de "yo no tengo nada que esconder"...
