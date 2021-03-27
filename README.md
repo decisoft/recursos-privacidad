@@ -76,14 +76,24 @@ Tecnología
 - ***Guerras de internet***. Natalia Zuazo.
 - ***Los dueños de internet***. Natalia Zuazo.
 
+## Trucos
+
+- **Eliminar consentimiento de cookies de Google y otros tips:** [Wiki de uBlock de Reddit](https://www.reddit.com/r/uBlockOrigin/wiki/solutions).
+
 ## Otros recursos
 
 - [Techtopias](https://techtopias.com/): newsletter sobre privacidad.
 - [Cryptomator](https://cryptomator.org/downloads/)
 
-## NAS
+## NAS, Docker y relacionado
 
 - [NAS Casero con Raspberry Pi (incluye varios pasos y Docker)](https://diario.mosqueteroweb.eu/2020/11/nas-casero-con-una-raspberry-pi-o-un.html): para montar un NAS casero, con OMV y una Raspberry Pi.
+- [Dockers para iniciados](https://www.reddit.com/r/selfhosted/comments/mdshuv/lets_make_some_newbies_life_better_and_post_a_few/).
+- [Docker-compose](https://github.com/bearlikelion/docker-compose).
+- [Awesome-docker](https://github.com/docker/awesome-compose).
+- [Dockers en Fleet Linux](https://fleet.linuxserver.io/).
+- [DockSTARTer](https://dockstarter.com/).
+- 
 
 ## Citas
 
