@@ -1,5 +1,3 @@
-Tecnología
-
 # Software libre, código abierto y privacidad
 
 ## Generales
