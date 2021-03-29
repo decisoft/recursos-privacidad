@@ -1,0 +1,73 @@
+! 2021-01-03 https://geekflare.com
+||geekflare.com/wp-content/uploads/2020/11/intruder.png$image
+
+! 2021-02-04 http://www.rtvc.es
+||www.rtvc.es/bannerfva/brisa21.jpg$image
+
+! 2021-02-12 https://bgr.com
+bgr.com##.bgr-style-_default.no-image.channel-tech.tag-password.tag-email.tag-data-breach.hentry.has-post-thumbnail.format-standard.status-publish.type-post.post.post-5905005 > div.content-section.row > .columns.main-content > .page-content > .row > .columns > .entry-content > p > .testing-js-loaded.product-callout.testing-js-top-deal-widget.amazon-product-callout.product-callout-todays-top-deal
+
+! 2021-02-15 https://ayudawp.com
+||ayudawp.com/wp-content/uploads/2020/11/plugin-envios-peso-volumen-productos-para-woocommerce*.jpg$image
+||ayudawp.com/wp-content/uploads/2020/11/plugin-envios-peso-volumen-productos-para-woocommerce*.jpg$image
+||ayudawp.com/wp-content/uploads/2017/09/yith-banner-250x250.gif$image
+
+! 2021-02-27 https://home-assistant-guide.com
+home-assistant-guide.com##.aawp-tb--hide-labels.aawp-tb--cols-5.aawp-tb--desktop.aawp-tb > div.aawp-tb__row > .aawp-tb__data--type-title.aawp-tb__data.aawp-tb-product-0
+home-assistant-guide.com##.aawp-tb__data--type-button.aawp-tb__data.aawp-tb-product-3
+home-assistant-guide.com##.aawp-tb__data--type-thumb.aawp-tb__data.aawp-tb-product-3
+home-assistant-guide.com##.aawp-tb__data--type-price.aawp-tb__data.aawp-tb-product-3
+||cdn.shortpixel.ai/spai/w_146+q_lossy+ret_img+to_webp/https://home-assistant-guide.com/wp-content/plugins/aawp/assets/img/thumb-spacer.png$image
+home-assistant-guide.com##.aawp-tb__data--type-title.aawp-tb__data.aawp-tb-product-3 > .aawp-tb-product-data-title
+home-assistant-guide.com##.aawp-tb__data--type-title.aawp-tb__data.aawp-tb-product-3
+||home-assistant-guide.com/wp-content/plugins/aawp/public/image.php?url=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTE3SHRmd1VoQUwuX1NMMTYwXy5qcGc$image
+home-assistant-guide.com##.aawp-tb--hide-labels.aawp-tb--cols-5.aawp-tb--desktop.aawp-tb > div.aawp-tb__row > .aawp-tb__data--type-thumb.aawp-tb__data.aawp-tb-product-2
+home-assistant-guide.com##.aawp-tb--hide-labels.aawp-tb--cols-5.aawp-tb--desktop.aawp-tb > div.aawp-tb__row > .aawp-tb__data--type-title.aawp-tb__data.aawp-tb-product-1
+home-assistant-guide.com##.aawp-tb--hide-labels.aawp-tb--cols-5.aawp-tb--desktop.aawp-tb > div.aawp-tb__row > .aawp-tb__data--type-thumb.aawp-tb__data.aawp-tb-product-1
+home-assistant-guide.com##.aawp-tb--hide-labels.aawp-tb--cols-5.aawp-tb--desktop.aawp-tb > div.aawp-tb__row > .aawp-tb__data--type-button.aawp-tb__data.aawp-tb-product-2
+home-assistant-guide.com##.aawp-tb--hide-labels.aawp-tb--cols-5.aawp-tb--desktop.aawp-tb > div.aawp-tb__row > .aawp-tb__data--type-price.aawp-tb__data.aawp-tb-product-2
+home-assistant-guide.com##.aawp-tb--hide-labels.aawp-tb--cols-5.aawp-tb--desktop.aawp-tb > div.aawp-tb__row > .aawp-tb__data--type-button.aawp-tb__data.aawp-tb-product-1
+home-assistant-guide.com##.aawp-tb--hide-labels.aawp-tb--cols-5.aawp-tb--desktop.aawp-tb > div.aawp-tb__row > .aawp-tb__data--type-price.aawp-tb__data.aawp-tb-product-1
+home-assistant-guide.com##.aawp-tb--hide-labels.aawp-tb--cols-5.aawp-tb--desktop.aawp-tb > div.aawp-tb__row > .aawp-tb__data--type-button.aawp-tb__data.aawp-tb-product-0
+home-assistant-guide.com##.aawp-tb--hide-labels.aawp-tb--cols-5.aawp-tb--desktop.aawp-tb > div.aawp-tb__row > .aawp-tb__data--type-price.aawp-tb__data.aawp-tb-product-0
+home-assistant-guide.com##.aawp-tb--hide-labels.aawp-tb--cols-5.aawp-tb--desktop.aawp-tb > div.aawp-tb__row > .aawp-tb__data--type-thumb.aawp-tb__data.aawp-tb-product-0
+home-assistant-guide.com##.aawp-tb--hide-labels.aawp-tb--cols-5.aawp-tb--desktop.aawp-tb > div.aawp-tb__row > .aawp-tb__data--type-title.aawp-tb__data.aawp-tb-product-2
+
+! 2021-02-28 https://automovilzona.com
+automovilzona.com##.ycp2hj58
+
+! 2021-03-01 https://decodecms.com
+||s3-sa-east-1.amazonaws.com/img.decodecms/banners/banner-top-webservi-2x.png$image
+||s3-sa-east-1.amazonaws.com/img.decodecms/banners/banner-top-webservi-2x.png$image
+
+! 2021-03-08 https://charlesmknox.com
+charlesmknox.com##.adsbycontextcue > iframe
+
+! 2021-03-16 https://www.noticiasparamunicipios.com
+||www.noticiasparamunicipios.com/wp-content/uploads/2021/02/Copia-de-Unete-Explicacion-Efecto-Paneo-2.gif$image
+||www.noticiasparamunicipios.com/wp-content/uploads/2021/02/Copia-de-Unete-Explicacion-Efecto-Paneo-2.gif$image
+||www.noticiasparamunicipios.com/wp-content/uploads/2021/03/cs-banner_1*.jpg$image
+
+||evolok.net/*/authorize/*$xhr,redirect-rule=nooptext,domain=nation.africa
+
+! 2021-03-18 https://www.searchenginejournal.com
+||cdn.searchenginejournal.com/wp-content/uploads/2021/03/pp1x-604753e052c53.png$image
+
+! 2021-03-21 https://es.aliexpress.com
+||ae01.alicdn.com/kf/H211d263967c14f559a5670684025c948R.png$image
+||img.alicdn.com/tfs/TB1tH8.d3gP7K4jSZFqXXamhVXa-52-52.png$image
+
+! Added from https://d3ward.github.io/toolz/src/adblock
+||widgets.pinterest.com
+||analytics.pinterest.com
+||trk.pinterest.com
+||appmetrica.yandex.com
+||yandexadexchange.net
+||analytics.mobile.yandex.net
+||extmaps-api.yandex.net
+||adsdk.yandex.ru
+
+! Google consent, "before you continue"
+google.*##+js(aeld, DOMContentLoaded, CONSENT)
+||consent.google.com^
+
