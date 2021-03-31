@@ -93,6 +93,10 @@
 - [DockSTARTer](https://dockstarter.com/).
 - [PiHole + PiVPN + Unbound](https://blog.crankshafttech.com/2021/03/how-to-setup-pihole-pivpn-unbound.html): usar PiHole fuera de la red local a través del túnel VPN solo para las consultas DNS.
 
+## Copias de seguridad
+
+- [Duplicati](https://www.duplicati.com/).
+
 ## Citas
 
 «Ante las personas que esgrimen el argumento de "yo no tengo nada que esconder"...
