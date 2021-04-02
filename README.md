@@ -95,6 +95,7 @@
 - [Dockers en Fleet Linux](https://fleet.linuxserver.io/).
 - [DockSTARTer](https://dockstarter.com/).
 - [PiHole + PiVPN + Unbound](https://blog.crankshafttech.com/2021/03/how-to-setup-pihole-pivpn-unbound.html): usar PiHole fuera de la red local a través del túnel VPN solo para las consultas DNS.
+- [PSI-Transfer](https://github.com/psi-4ward/psitransfer): alternativa en docker para WeTransfer.
 
 ## Copias de seguridad
 
