@@ -26,10 +26,12 @@
 - [The Hitchhiker's Guide to Online Anonimity](https://anonymousplanet.github.io/thgtoa/guide.html): una guía (de nivel avanzado) para endurecer nuestras protecciones en internet y nuestra privacidad.
 - [Privacy Tools](https://privacytools.io/): una de las páginas de referencia de herramientas y programas que debemos usar para garantizarnos cierta privacidad. *
 - [How companies are using your data against you](https://www.cupwire.com/data-abuse/): recopilación de noticias y enlaces de cómo se utilizan los datos recopilados contra ti, más allá de la publicidad.
+- [Small Tech](https://small-tech.org/): pequeña startup irlandesa.
 
 ## Listas GitHub
 - [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech): una lista de tecnología con visión ética y humana.
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy): una lista completísima, dividida en secciones, de herramientas y aplicaciones. *
+- [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): una lista de aplicaciones que puedes autoalojar, respetuosas con la privacidad y con pleno control. *
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting): lista variada de apps y utilidades respetuosas con la privacidad, dividida en categorías.
 - [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy): parecida a la anterior pero más completa.
 - [DeGoogle](https://github.com/tycrek/degoogle): alternativas a todos los servicios de Google.
@@ -53,6 +55,7 @@
 - [Google Chrome has become surveillance software, it's time to switch](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/). The Washington Post
 - [Why Zuckerberg’s 14-Year Apology Tour Hasn’t Fixed Facebook](https://www.wired.com/story/why-zuckerberg-15-year-apology-tour-hasnt-fixed-facebook/): Wired
 - [Goodbye, Big Five](https://gizmodo.com/c/goodbye-big-five): excelentísimo reportaje de la periodista Kashmir Hill, en el que prueba durante seis semanas a deshacerse de los cinco gigantes digitales: Amazon, Facebook, Google, Microsoft y Apple. *
+- [In 2020 and beyond, the battle to save personhood and democracy requires radical overhaul of mainstream technology](https://ar.al/2020/01/01/in-2020-and-beyond-the-battle-to-save-personhood-and-democracy-requires-a-radical-overhaul-of-mainstream-technology/): artículo de Aral Balkan (Small Tech).
 
 ## Contenido audiovisual
 
