@@ -57,6 +57,8 @@
 - [Goodbye, Big Five](https://gizmodo.com/c/goodbye-big-five): excelentísimo reportaje de la periodista Kashmir Hill, en el que prueba durante seis semanas a deshacerse de los cinco gigantes digitales: Amazon, Facebook, Google, Microsoft y Apple. *
 - [In 2020 and beyond, the battle to save personhood and democracy requires radical overhaul of mainstream technology](https://ar.al/2020/01/01/in-2020-and-beyond-the-battle-to-save-personhood-and-democracy-requires-a-radical-overhaul-of-mainstream-technology/): artículo de Aral Balkan (Small Tech).
 - [Why you shouldn't trust Apple's OS on privacy and security](https://gist.github.com/iosecure/357e724811fe04167332ef54e736670d): sobre la falta de ética en temas de privacidad y seguridad de Apple.
+- [Why you should care about your data privacy even if you have «nothing to hide»](https://www.vox.com/recode/22250897/facebook-data-privacy-collection-algorithms-extremism): artículo de Sara Morrison, sintético.
+- [No, Facebook is not secretely listening to you](https://www.nytimes.com/2019/08/20/opinion/facebook-privacy.html): artículo de *The privacy project* de NYTimes, sobre por qué Facebook no necesita escucharte para saber de lo que has hablado.
 
 ## Contenido audiovisual
 
