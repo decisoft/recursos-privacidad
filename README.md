@@ -27,7 +27,7 @@
 - [Privacy Tools](https://privacytools.io/): una de las páginas de referencia de herramientas y programas que debemos usar para garantizarnos cierta privacidad. *
 - [How companies are using your data against you](https://www.cupwire.com/data-abuse/): recopilación de noticias y enlaces de cómo se utilizan los datos recopilados contra ti, más allá de la publicidad.
 - [Small Tech](https://small-tech.org/): pequeña startup irlandesa.
-- [*The privacy project*](https://www.nytimes.com/interactive/2019/opinion/internet-privacy-project.html): especial sobre la privacidad de NYTimes, con artículos, guías y reportajes. **
+- [*The privacy project*](https://www.nytimes.com/interactive/2019/opinion/internet-privacy-project.html): especial sobre la privacidad de NYTimes, con artículos, guías y reportajes. *
 
 ## Listas GitHub
 - [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech): una lista de tecnología con visión ética y humana.
