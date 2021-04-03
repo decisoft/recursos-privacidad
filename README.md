@@ -56,6 +56,7 @@
 - [Why Zuckerberg’s 14-Year Apology Tour Hasn’t Fixed Facebook](https://www.wired.com/story/why-zuckerberg-15-year-apology-tour-hasnt-fixed-facebook/): Wired
 - [Goodbye, Big Five](https://gizmodo.com/c/goodbye-big-five): excelentísimo reportaje de la periodista Kashmir Hill, en el que prueba durante seis semanas a deshacerse de los cinco gigantes digitales: Amazon, Facebook, Google, Microsoft y Apple. *
 - [In 2020 and beyond, the battle to save personhood and democracy requires radical overhaul of mainstream technology](https://ar.al/2020/01/01/in-2020-and-beyond-the-battle-to-save-personhood-and-democracy-requires-a-radical-overhaul-of-mainstream-technology/): artículo de Aral Balkan (Small Tech).
+- [Why you shouldn't trust Apple's OS on privacy and security](https://gist.github.com/iosecure/357e724811fe04167332ef54e736670d): sobre la falta de ética en temas de privacidad y seguridad de Apple.
 
 ## Contenido audiovisual
 
