@@ -28,6 +28,7 @@
 - [How companies are using your data against you](https://www.cupwire.com/data-abuse/): recopilación de noticias y enlaces de cómo se utilizan los datos recopilados contra ti, más allá de la publicidad.
 - [Small Tech](https://small-tech.org/): pequeña startup irlandesa.
 - [*The privacy project*](https://www.nytimes.com/interactive/2019/opinion/internet-privacy-project.html): especial sobre la privacidad de NYTimes, con artículos, guías y reportajes. *
+- [Recode](https://www.vox.com/recode): sección de VOX América sobre cómo el mundo digital está cambiando (y cambiándonos).
 
 ## Listas GitHub
 - [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech): una lista de tecnología con visión ética y humana.
@@ -60,6 +61,7 @@
 - [Why you shouldn't trust Apple's OS on privacy and security](https://gist.github.com/iosecure/357e724811fe04167332ef54e736670d): sobre la falta de ética en temas de privacidad y seguridad de Apple.
 - [Why you should care about your data privacy even if you have «nothing to hide»](https://www.vox.com/recode/22250897/facebook-data-privacy-collection-algorithms-extremism): artículo de Sara Morrison, sintético.
 - [No, Facebook is not secretely listening to you](https://www.nytimes.com/2019/08/20/opinion/facebook-privacy.html): artículo de *The privacy project* de NYTimes, sobre por qué Facebook no necesita escucharte para saber de lo que has hablado.
+- [Dark patterns, the tricks websites use to you say yes, explained](https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy): artículo de la sección *Recode*, de VOX América, sobre los patrones oscuros para aceptar cookies, rastreo y personalización.
 
 ## Contenido audiovisual
 
