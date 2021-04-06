@@ -62,6 +62,7 @@
 - [Why you should care about your data privacy even if you have «nothing to hide»](https://www.vox.com/recode/22250897/facebook-data-privacy-collection-algorithms-extremism): artículo de Sara Morrison, sintético.
 - [No, Facebook is not secretely listening to you](https://www.nytimes.com/2019/08/20/opinion/facebook-privacy.html): artículo de *The privacy project* de NYTimes, sobre por qué Facebook no necesita escucharte para saber de lo que has hablado.
 - [Dark patterns, the tricks websites use to you say yes, explained](https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy): artículo de la sección *Recode*, de VOX América, sobre los patrones oscuros para aceptar cookies, rastreo y personalización.
+- [Why democracy needs privacy](https://bostonreview.net/science-nature-politics/carissa-veliz-power-privacy): de Carissa Véliz. *
 
 ## Contenido audiovisual
 
