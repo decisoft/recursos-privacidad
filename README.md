@@ -30,14 +30,6 @@
 - [*The privacy project*](https://www.nytimes.com/interactive/2019/opinion/internet-privacy-project.html): especial sobre la privacidad de NYTimes, con artículos, guías y reportajes. *
 - [Recode](https://www.vox.com/recode): sección de VOX América sobre cómo el mundo digital está cambiando (y cambiándonos).
 
-## Listas GitHub
-- [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech): una lista de tecnología con visión ética y humana.
-- [Awesome Privacy](https://github.com/pluja/awesome-privacy): una lista completísima, dividida en secciones, de herramientas y aplicaciones. *
-- [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): una lista de aplicaciones que puedes autoalojar, respetuosas con la privacidad y con pleno control. *
-- [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting): lista variada de apps y utilidades respetuosas con la privacidad, dividida en categorías.
-- [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy): parecida a la anterior pero más completa.
-- [DeGoogle](https://github.com/tycrek/degoogle): alternativas a todos los servicios de Google.
-
 ## Artículos
 
 - [El 5G es una trampa](https://www.elconfidencial.com/tecnologia/2019-06-12/marta-peirano-5g-facebook-google-huawei-enemigo-conoce_2066566/): de Marta Peirano.
@@ -77,6 +69,15 @@
 - [Soberanía tecnológica - El Salto](https://www.elsaltodiario.com/consultorio-de-soberania-tecnologica/podcast-or-consultorio-de-soberania-tecnologica-4-correo-electronico): pódcast sobre soberanía tecnológica.
 - [Citizen browser - The Markup](https://themarkup.org/citizenbrowser): subproyecto sobre navegadores de la revista The Markup.
 - [Hab. 225](https://open.spotify.com/episode/1mmmnYuOtwzl5M2pEl9One?si=jVaTNvWIQLG7ts8AurcOgA): pódcast con Jordi Pérez Colomé sobre la caída de Zuckerberg.
+
+## Listas GitHub
+
+- [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech): una lista de tecnología con visión ética y humana.
+- [Awesome Privacy](https://github.com/pluja/awesome-privacy): una lista completísima, dividida en secciones, de herramientas y aplicaciones. *
+- [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): una lista de aplicaciones que puedes autoalojar, respetuosas con la privacidad y con pleno control. *
+- [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting): lista variada de apps y utilidades respetuosas con la privacidad, dividida en categorías.
+- [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy): parecida a la anterior pero más completa.
+- [DeGoogle](https://github.com/tycrek/degoogle): alternativas a todos los servicios de Google.
 
 ## Libros
 
