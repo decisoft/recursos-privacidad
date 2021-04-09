@@ -55,7 +55,8 @@
 - [No, Facebook is not secretely listening to you](https://www.nytimes.com/2019/08/20/opinion/facebook-privacy.html): artículo de *The privacy project* de NYTimes, sobre por qué Facebook no necesita escucharte para saber de lo que has hablado.
 - [Dark patterns, the tricks websites use to you say yes, explained](https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy): artículo de la sección *Recode*, de VOX América, sobre los patrones oscuros para aceptar cookies, rastreo y personalización.
 - [Why democracy needs privacy](https://bostonreview.net/science-nature-politics/carissa-veliz-power-privacy): de Carissa Véliz. *
-- [«They "trust me", dumb fucks»](https://www.businessinsider.com/well-these-new-zuckerberg-ims-wont-help-facebooks-privacy-problems-2010-5?international=true&r=US&IR=T): artícul que recoge las declaraciones de Zuckerber cuando Facebook estaba empezando, donde presumía de tener muchísimos datos personales de la gente. *
+- [«They "trust me", dumb fucks»](https://www.businessinsider.com/well-these-new-zuckerberg-ims-wont-help-facebooks-privacy-problems-2010-5?international=true&r=US&IR=T): artículo que recoge las declaraciones de Zuckerber cuando Facebook estaba empezando, donde presumía de tener muchísimos datos personales de la gente. *
+- [How Facebook is stalking you even you're offline -and how to limit it](https://medium.com/technology-hits/facebook-is-stalking-you-and-how-to-limit-it-e271456cbe23): a raíz de la filtración.
 
 ## Contenido audiovisual
 
