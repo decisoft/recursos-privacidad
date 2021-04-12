@@ -29,6 +29,11 @@
 - [Small Tech](https://small-tech.org/): pequeña startup irlandesa.
 - [*The privacy project*](https://www.nytimes.com/interactive/2019/opinion/internet-privacy-project.html): especial sobre la privacidad de NYTimes, con artículos, guías y reportajes. *
 - [Recode](https://www.vox.com/recode): sección de VOX América sobre cómo el mundo digital está cambiando (y cambiándonos).
+- [Especial Cambridge Analytica en The Verge](https://www.theverge.com/2018/4/10/17165130/facebook-cambridge-analytica-scandal).
+- [Delete Google](https://deletegoogle.com/): web que recoge motivos e instrucciones para eliminar nuestras cuentas de Google.
+- [Delete Facebook](https://deletefacebook.com/): web que recoge motivos e instrucciones para eliminar nuestra cuenta de Facebook.
+- [Delete WhatsApp](https://deletewhatsapp.com/): web que recoge motivos e instrucciones para eliminar nuestra cuenta de WhatsApp.
+- [Delete Zoom](https://deletezoom.com/): web que recoge motivos e instrucciones para eliminar nuestra cuenta de Zoom.
 
 ## Artículos
 
