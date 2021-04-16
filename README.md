@@ -34,6 +34,7 @@
 - [Delete Facebook](https://deletefacebook.com/): web que recoge motivos e instrucciones para eliminar nuestra cuenta de Facebook.
 - [Delete WhatsApp](https://deletewhatsapp.com/): web que recoge motivos e instrucciones para eliminar nuestra cuenta de WhatsApp.
 - [Delete Zoom](https://deletezoom.com/): web que recoge motivos e instrucciones para eliminar nuestra cuenta de Zoom.
+- [Datos personales: persuasión política](https://ourdataourselves.tacticaltech.org/posts/datos-personales-es/): proyecto de Tactical Tech.
 
 ## Artículos
 
