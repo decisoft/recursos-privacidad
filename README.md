@@ -66,6 +66,7 @@
 ## Contenido audiovisual
 
 - [¿Por qué me vigilan, si no soy nadie?](https://www.youtube.com/watch?v=NPE7i8wuupk): TEDx de Marta Peirano.
+- [Facebook's role on Brexit - and its threat to democracy](https://www.youtube.com/watch?v=OQSMr-3GGvQ): TED Talk de Carle Cadwalladr, periodista que destapó el escándalo de Cambridge Analytica. *
 - [HAK_MTL](https://m.imdb.com/title/tt10353560/): documental sobre privacidad.
 - [It's FOSS - Linux](https://m.youtube.com/c/Itsfoss/): canal sobre Linux.
 - [Linux Tex](https://m.youtube.com/c/LinuxTex/): canal sobre Linux.
@@ -84,6 +85,7 @@
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting): lista variada de apps y utilidades respetuosas con la privacidad, dividida en categorías.
 - [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy): parecida a la anterior pero más completa.
 - [DeGoogle](https://github.com/tycrek/degoogle): alternativas a todos los servicios de Google.
+- [Awesome Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives?1): alternativas abiertas a productos propietarios.
 
 ## Libros
 
