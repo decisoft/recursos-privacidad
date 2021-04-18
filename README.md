@@ -68,6 +68,7 @@
 
 - [¿Por qué me vigilan, si no soy nadie?](https://www.youtube.com/watch?v=NPE7i8wuupk): TEDx de Marta Peirano.
 - [Facebook's role on Brexit - and its threat to democracy](https://www.youtube.com/watch?v=OQSMr-3GGvQ): TED Talk de Carle Cadwalladr, periodista que destapó el escándalo de Cambridge Analytica. *
+- [Safe Harbor](https://media.ccc.de/v/32c3-7513-safe_harbor#t=808): charla de Max Schrems, el austriaco que venció a Facebook en los tribunales.
 - [HAK_MTL](https://m.imdb.com/title/tt10353560/): documental sobre privacidad.
 - [It's FOSS - Linux](https://m.youtube.com/c/Itsfoss/): canal sobre Linux.
 - [Linux Tex](https://m.youtube.com/c/LinuxTex/): canal sobre Linux.
