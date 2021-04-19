@@ -4,7 +4,7 @@
 ! Expires: 4 days
 ! License: https://creativecommons.org/licenses/by/3.0/
 ! Homepage: https://github.com/decisoft/recursos-privacidad
-! Forums: https://github.com/decisoft/recursos-privacidad/issues
+! Forums: https://github.com/uBlockOrigin/recursos-privacidad/issues
 
 ! Added from https://d3ward.github.io/toolz/src/adblock
 ||widgets.pinterest.com
@@ -15,31 +15,23 @@
 ||analytics.mobile.yandex.net
 ||extmaps-api.yandex.net
 ||adsdk.yandex.ru
-||insights.samsung.com
-||analytics-api.samsunghealthcn.com
-||data.mistat.xiaomi.com
-||data.mistat.intl.xiaomi.com
-||data.mistat.india.xiaomi.com
-||data.mistat.rus.xiaomi.com
-||logservice.hicloud.com
-||logservice1.hicloud.com
-||logbak.hicloud.com
-||supportmetrics.apple.com
-||metrics.icloud.com
-||metrics.mzstatic.com
 
 ! Google consent, "before you continue"
 google.*##^script:has-text(consentCookiePayload)
 
-! Disable Google translate www.aliprice.com
+! Block Facebook Graph
+||graph.facebook.com
+||graph.instagram.com
+
+! 2021-04-04 https://www.aliprice.com
 aliprice.com##.skiptranslate
 aliprice.com##body:style(top: 0px !important)
 
-! Fix blank space elpais.com
+! 2021-04-17 https://elpais.com
 elpais.com##.mldb1-wrapper
 
-! Disable cookie banner lavanguardia.com
+! 2021-04-19 https://www.lavanguardia.com
 ||sdk.privacy-center.org^$script,domain=www.lavanguardia.com,important
 
-! Disable cookie banner theverge.com
+! 2021-04-19 https://www.theverge.com
 www.theverge.com##.m-privacy-consent,important
