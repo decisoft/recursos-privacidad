@@ -42,4 +42,4 @@ elpais.com##.mldb1-wrapper
 ||sdk.privacy-center.org^$script,domain=www.lavanguardia.com,important
 
 ! Disable cookie banner theverge.com
-www.theverge.com##.m-privacy-consent,important
+theverge.com##.m-privacy-consent,important
