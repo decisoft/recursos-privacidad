@@ -71,8 +71,13 @@ elespanol.com##.article-inline
 elespanol.com##.article-inline_final
 
 ! Fix blank spaces elconfidencial.com
-www.elconfidencial.com##.skinRevenue__wrapper--center.skinRevenue__wrapper > .revUnit--placeholder.revUnit
-www.elconfidencial.com###roba_a28df9ac-a1bd-11eb-89ff-005056012d97
-www.elconfidencial.com###roba_a28df2d6-a1bd-11eb-bb75-005056012d97
-www.elconfidencial.com###boton_a28deaa2-a1bd-11eb-a41c-005056012d97
-www.elconfidencial.com###roba_a28dd5da-a1bd-11eb-8fe0-005056012d97
+elconfidencial.com##.skinRevenue__wrapper--center.skinRevenue__wrapper > .revUnit--placeholder.revUnit
+elconfidencial.com###roba_a28df9ac-a1bd-11eb-89ff-005056012d97
+elconfidencial.com###roba_a28df2d6-a1bd-11eb-bb75-005056012d97
+elconfidencial.com###boton_a28deaa2-a1bd-11eb-a41c-005056012d97
+elconfidencial.com###roba_a28dd5da-a1bd-11eb-8fe0-005056012d97
+
+! Block "Inicia sesión en Youtube" 
+youtube.com##.opened
+youtube.com###dialog
+||gstatic.com/youtube/img/promos/growth/dmod_si_horizontal_ver1_240x400.png$image

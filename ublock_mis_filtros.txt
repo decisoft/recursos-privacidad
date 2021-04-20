@@ -30,3 +30,5 @@ google.*##^script:has-text(consentCookiePayload)
 ! https://twitter.com/gorhill/status/1377613392559636486
 ||youtube.com^$3p,frame,redirect=click2load.html
 ||youtube-nocookie.com^$3p,frame,redirect=click2load.html
+
+
