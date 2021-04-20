@@ -61,3 +61,18 @@ theverge.com##.m-privacy-consent,important
 
 ! Disable newsletter banner lidl.es
 lidl.es##.newsletter-banner--opened.js-newsletter-banner.newsletter-banner
+
+! Disable tour guide Blackbooard Collaborate
+eu.bbcollab.com###announcement-modal-page-wrap
+
+! Disable annoyances and blank spasces elespanol.com
+elespanol.com###gallerynews_footer
+elespanol.com##.article-inline
+elespanol.com##.article-inline_final
+
+! Fix blank spaces elconfidencial.com
+www.elconfidencial.com##.skinRevenue__wrapper--center.skinRevenue__wrapper > .revUnit--placeholder.revUnit
+www.elconfidencial.com###roba_a28df9ac-a1bd-11eb-89ff-005056012d97
+www.elconfidencial.com###roba_a28df2d6-a1bd-11eb-bb75-005056012d97
+www.elconfidencial.com###boton_a28deaa2-a1bd-11eb-a41c-005056012d97
+www.elconfidencial.com###roba_a28dd5da-a1bd-11eb-8fe0-005056012d97
