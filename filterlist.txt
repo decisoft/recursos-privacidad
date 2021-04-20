@@ -58,3 +58,6 @@ elpais.com##.mldb1-wrapper
 
 ! Disable cookie banner theverge.com
 theverge.com##.m-privacy-consent,important
+
+! Disable newsletter banner lidl.es
+lidl.es##.newsletter-banner--opened.js-newsletter-banner.newsletter-banner
