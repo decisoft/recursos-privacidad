@@ -82,3 +82,28 @@ elconfidencial.com###roba_a28dd5da-a1bd-11eb-8fe0-005056012d97
 youtube.com##.opened
 youtube.com###dialog
 ||gstatic.com/youtube/img/promos/growth/dmod_si_horizontal_ver1_240x400.png$image
+
+! Fix blank space interflora.es
+interflora.es##.block-busca-ramo
+
+! Hide ads
+noticiasparamunicipios.com##.notic-getafe-aleatorio_2
+noticiasparamunicipios.com##.notic-adlabel
+
+! Hide ads
+##.advads_ad_widget-1
+##.advads_ad_widget-6
+##.advads_ad_widget-7
+##.advads_ad_widget-8
+##.advads_ad_widget-9
+
+! Disable covid stats banner
+##.coronabar-container
+
+! Disable cookie banner https://www.getafealdia.com
+getafealdia.com###cookies
+
+! Fix blank space 20minutos.es
+20minutos.es##.outbrain-sidebar > div
+20minutos.es###m25-24-26 > .module.free-content
+20minutos.es##.module-lined.module-coupons.module
