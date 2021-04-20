@@ -107,3 +107,16 @@ getafealdia.com###cookies
 20minutos.es##.outbrain-sidebar > div
 20minutos.es###m25-24-26 > .module.free-content
 20minutos.es##.module-lined.module-coupons.module
+
+! Annoyance
+womensecret.com##.ui-front.ui-widget-overlay
+womensecret.com##.c10__newsletter-dialog--contentWrapper
+
+! Annoyance
+shop.mango.com##._1_Q4F._2IQOD
+
+! Blank space
+elperiodico.com##.minHeightLong
+
+! Whitelist cookie banner (breaks scrolling)
+panticosa.com#@##bs-gdpr-cookies-modal
