@@ -65,7 +65,7 @@ lidl.es##.newsletter-banner--opened.js-newsletter-banner.newsletter-banner
 ! Disable tour guide Blackbooard Collaborate
 eu.bbcollab.com###announcement-modal-page-wrap
 
-! Disable annoyances and blank spasces elespanol.com
+! Disable annoyances and blank spaces elespanol.com
 elespanol.com###gallerynews_footer
 elespanol.com##.article-inline
 elespanol.com##.article-inline_final
