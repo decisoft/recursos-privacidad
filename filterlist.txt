@@ -42,6 +42,7 @@
 ||metrics.mzstatic.com^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.facebook.com^
+||stats.redditmedia.com^
 
 ! Google consent, "before you continue"
 google.*##^script:has-text(consentCookiePayload)
