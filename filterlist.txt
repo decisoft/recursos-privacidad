@@ -17,6 +17,10 @@
 ||adsdk.yandex.ru
 ||insights.samsung.com
 ||analytics-api.samsunghealthcn.com
+||analytics.samsungknox.com
+||samsungadhub.com
+||bigdata.ssp.samsung.com
+||ad.samsungadhub.com
 ||data.mistat.xiaomi.com
 ||data.mistat.intl.xiaomi.com
 ||data.mistat.india.xiaomi.com
@@ -24,7 +28,16 @@
 ||logservice.hicloud.com
 ||logservice1.hicloud.com
 ||logbak.hicloud.com
+||metrics1.data.hicloud.com
+||metrics2.data.hicloud.com
+||metrics3.data.hicloud.com
+||metrics4.data.hicloud.com
+||metrics5.data.hicloud.com
+||metrics.data.hicloud.com
+||metrics-dra.dt.hicloud.com
+||trackingshipment.apple.com
 ||supportmetrics.apple.com
+||trackingshipment.isg-apple.com.akadns.net
 ||metrics.icloud.com
 ||metrics.mzstatic.com
 
