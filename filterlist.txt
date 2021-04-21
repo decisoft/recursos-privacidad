@@ -1,4 +1,4 @@
-! Title: Custom filter list
+! Title: Custom annoyance and aesthetic list
 ! Description: Custom filters optimized for uBlock Origin, to be used with Easy
 !              List Cookies and Adguard's "Annoyances" lists.
 ! Expires: 1 day
