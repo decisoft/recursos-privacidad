@@ -1,7 +1,7 @@
 ! Title: Custom filter list
 ! Description: Custom filters optimized for uBlock Origin, to be used with Easy
 !              List Cookies and Adguard's "Annoyances" lists.
-! Expires: 2 days
+! Expires: 1 day
 ! License: https://creativecommons.org/licenses/by/3.0/
 ! Homepage: https://github.com/decisoft/recursos-privacidad
 ! Forums: https://github.com/decisoft/recursos-privacidad/issues
@@ -154,3 +154,34 @@ joindeleteme.com##.widget_custom_html.widget.widget_text
 ! 2021-04-21 https://www.infobae.com
 infobae.com##.navbar-ad-container
 infobae.com##body:style(top: 0px !important)
+
+! 2021-04-21 https://www.elagoradiario.com
+elagoradiario.com##.delayedPopupWindow
+
+! 2021-04-21 https://www.abc.es
+abc.es##.patrocinados.caja-portada > .zona-tres-temas.fila > .col4.row1.start-col9.start-row1
+||oferplan.abc.es^
+||static2.abc.es/assets/2.0.146/img/logo-oferplan-2017.svg
+abc.es##.publicidades.caja-portada
+abc.es##.mega-inferior
+
+! 2021-04-21 https://www.larazon.es
+larazon.es##.content__block--is-billboard.content__block > .content__ad
+larazon.es##.ad__wrapper_alayans > .bg-placeholder.right1.all.ad > .henneoHB_right.henneoHB
+larazon.es##.section__news--is-3-col-3-col-publicidad-7-noticias.section__news > .ad-parent-class.section__news--is-ad > .bg-placeholder.right1.all.ad > .henneoHB_right.henneoHB
+larazon.es##.bg-placeholder.cintillo1.all.ad
+larazon.es##.bg-placeholder.cintillo2.all.ad
+larazon.es##.bg-placeholder.cintillo3.all.ad
+larazon.es##.bg-placeholder.cintillo4.all.ad
+larazon.es##.bg-placeholder.cintillo5.all.ad
+larazon.es##.native1.henneoHB
+larazon.es##.henneoHB_right.henneoHB
+larazon.es##.section__news--is-3-col-3-col-publicidad-5-noticias.section__news > .ad-parent-class.section__news--is-ad
+larazon.es##.section__news--is-6-col-2x3-col-publicidad.section__news > .ad-parent-class.section__news--is-ad
+larazon.es##.section__news--is-6-col-3x2-col-publicidad.section__news > .ad-parent-class.section__news--is-ad
+larazon.es##.bg-placeholder.right1.all.ad
+larazon.es##.sunmedia1.henneoHB
+larazon.es##.bg-placeholder.sunmedia1.all.ad
+larazon.es##.bg-placeholder.right2.all.ad
+larazon.es##.roba_finarticulo.henneoHB
+larazon.es##.rfc-item.ads--is-footer.ads
