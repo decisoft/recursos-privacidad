@@ -99,6 +99,7 @@ noticiasparamunicipios.com##.notic-adlabel
 ##.advads_ad_widget-7
 ##.advads_ad_widget-8
 ##.advads_ad_widget-9
+##.pubbox2
 
 ! Disable covid stats banner
 ##.coronabar-container
@@ -135,7 +136,6 @@ eldia.es###pc-div-gpt-ad_html_1000036
 
 ! 2021-04-21 https://diariodeavisos.elespanol.com
 diariodeavisos.elespanol.com##div.qsr > .row
-diariodeavisos.elespanol.com##.pubbox2
 diariodeavisos.elespanol.com##.canariascom
 diariodeavisos.elespanol.com##div:nth-of-type(6)
 
@@ -146,3 +146,11 @@ diariodesanse.com##.code-block-20
 ! 2021-04-21 https://alcorconhoy.com
 alcorconhoy.com##.td-pb-span6.tdc-column.vc_column_container.wpb_column.tdi_15.vc_column
 alcorconhoy.com##.td-fix-index.td_block_template_1.td-pb-border-top.tdi_47.td_block_title.td_block_wrap > .td-block-title.block-title
+
+! 2021-04-21 https://joindeleteme.com
+joindeleteme.com##.widget_custom_html.widget.widget_text
+||sitejabber.com^$domain=joindeleteme.com
+
+! 2021-04-21 https://www.infobae.com
+infobae.com##.navbar-ad-container
+infobae.com##body:style(top: 0px !important)
