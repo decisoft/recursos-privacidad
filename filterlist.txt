@@ -54,8 +54,11 @@ aliprice.com##body:style(top: 0px !important)
 ! Fix blank space elpais.com
 elpais.com##.mldb1-wrapper
 
-! Disable cookie banner lavanguardia.com and so 
-||sdk.privacy-center.org^$script,domain=allocine.fr|corrieredellosport.it|franceculture.fr|franceinter.fr|francetvinfo.fr|gamestar.de|ivoox.com|lavanguardia.com|mundodeportivo.com|tuttosport.com,important
+! Disable cookie banner 
+||sdk.privacy-center.org^$script,domain=allocine.fr|corrieredellosport.it|franceculture.fr|franceinter.fr|francetvinfo.fr|gamestar.de|mundodeportivo.com|tuttosport.com,important
+
+! Disabling cookie banner breaks videos
+! ||sdk.privacy-center.org^$script,domain=ivoox.com|lavanguardia.com|,important
 
 ! Disable cookie banner theverge.com
 theverge.com##.m-privacy-consent,important
