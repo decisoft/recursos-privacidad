@@ -123,3 +123,26 @@ elperiodico.com##.minHeightLong
 
 ! Whitelist cookie banner (breaks scrolling)
 panticosa.com#@##bs-gdpr-cookies-modal
+
+! 2021-04-21 https://www.eldia.es
+eldia.es##.commercial-up-full__wrapper > .only-desktop
+eldia.es##.commercial-up-full__wrapper
+eldia.es##.no-baldomero.hide-mobile.col-xs-12.col-5
+eldia.es##.no-baldomero.hide-mobile.col-4.col-xs-12
+eldia.es##.no-baldomero.no-mobile.col-4.col-xs-12
+eldia.es###pc-div-gpt-ad_html_1000036
+||motor-cdn.prensaiberica.es/widget?portal=ed&pagina=portada&v1$subdocument
+
+! 2021-04-21 https://diariodeavisos.elespanol.com
+diariodeavisos.elespanol.com##div.qsr > .row
+diariodeavisos.elespanol.com##.pubbox2
+diariodeavisos.elespanol.com##.canariascom
+diariodeavisos.elespanol.com##div:nth-of-type(6)
+
+! Block ads
+diariodesanse.com##.ai_widget
+diariodesanse.com##.code-block-20
+
+! 2021-04-21 https://alcorconhoy.com
+alcorconhoy.com##.td-pb-span6.tdc-column.vc_column_container.wpb_column.tdi_15.vc_column
+alcorconhoy.com##.td-fix-index.td_block_template_1.td-pb-border-top.tdi_47.td_block_title.td_block_wrap > .td-block-title.block-title
