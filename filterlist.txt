@@ -185,3 +185,15 @@ larazon.es##.bg-placeholder.sunmedia1.all.ad
 larazon.es##.bg-placeholder.right2.all.ad
 larazon.es##.roba_finarticulo.henneoHB
 larazon.es##.rfc-item.ads--is-footer.ads
+
+! 2021-04-21 https://www.amazon.es
+amazon.es##.nav-flyout.nav-signin-tt
+
+! 2021-04-22 https://pixabay.com
+pixabay.com##.carbon-ad
+
+! 2021-04-22 https://twitter.com
+twitter.com##.r-10x3wzx.r-14lw9ot.css-1dbjc4n
+
+! 2021-04-22 https://ctxt.es
+ctxt.es##.articulo__sidebar
