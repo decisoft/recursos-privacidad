@@ -197,3 +197,6 @@ twitter.com##.r-10x3wzx.r-14lw9ot.css-1dbjc4n
 
 ! 2021-04-22 https://ctxt.es
 ctxt.es##.articulo__sidebar
+
+! 2021-04-22 https://www.elespanol.com
+elespanol.com##.comments-nav
