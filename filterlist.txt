@@ -200,3 +200,38 @@ ctxt.es##.articulo__sidebar
 
 ! 2021-04-22 https://www.elespanol.com
 elespanol.com##.comments-nav
+
+! 2021-04-23 https://www.elespectador.com
+elespectador.com##.BannerHeader-adTopHome_noTomaHome.BannerHeader-adTopHome
+elespectador.com##body:style(top: 0px !important)
+
+! 2021-04-23 https://www.telesurtv.net
+telesurtv.net##.contentBolFlot
+
+! 2021-04-23 https://www.freim.tv
+freim.tv##vue-widget
+freim.tv##p:nth-of-type(2)
+freim.tv##h3:nth-of-type(1)
+
+! 2021-04-23 https://okdiario.com
+okdiario.com##aside.ad-block:nth-of-type(2)
+
+! 2021-04-23 https://www.europapress.es
+europapress.es###colLateral
+europapress.es###colLateral2
+europapress.es##.columna3.columns.four
+
+! 2021-04-23 https://telocuentonews.com
+telocuentonews.com##.active.more-stories-text-4.right.more-stories
+
+! 2021-04-23 https://www.buzzfeednews.com
+buzzfeednews.com###mod-subbuzz-text-11 > p
+
+! 2021-04-23 https://www.independentespanol.com
+independentespanol.com##.wIkUb.sc-qQYBZ.kBPJSk.sc-pscky
+independentespanol.com##.gtZHgp.sc-pIvhh
+
+! 2021-04-23 https://www.abc.es
+abc.es##.zona-inferior-articulo
+||static1.abc.es/assets/latest/img/logo-oferplan-2017.svg
+abc.es##.patrocinados.caja-portada
