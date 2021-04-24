@@ -235,3 +235,56 @@ independentespanol.com##.gtZHgp.sc-pIvhh
 abc.es##.zona-inferior-articulo
 ||static1.abc.es/assets/latest/img/logo-oferplan-2017.svg
 abc.es##.patrocinados.caja-portada
+
+! 2021-04-23 https://www.estosdias.com.mx
+||www.estosdias.com.mx/wp-content/uploads/2020/10/banner3.jpg$image
+
+! 2021-04-23 https://www.jornada.com.mx
+jornada.com.mx###adv_top_left
+jornada.com.mx###Right1
+jornada.com.mx###taboolacoderightsc
+jornada.com.mx###adv-float-top-2-obj
+jornada.com.mx###Right2
+
+! 2021-04-23 https://actualidad.rt.com
+actualidad.rt.com##.top-banners-with-mobile.TopBanner-root
+
+! 2021-04-23 https://www.eldiariodechihuahua.mx
+eldiariodechihuahua.mx##div.pading_buttom_15.publicidad_ads.rcx12:nth-of-type(1)
+eldiariodechihuahua.mx##div.publicidad_ads.rcx12:nth-of-type(3)
+eldiariodechihuahua.mx##div.pading_buttom_15.publicidad_ads.rcx12:nth-of-type(2)
+
+! 2021-04-23 https://www.estosdias.com.mx
+estosdias.com.mx##.show-check-also.check-also-right.post-listing
+
+! 2021-04-23 https://www.jornada.com.mx
+jornada.com.mx###adv_bottom
+jornada.com.mx##.content-pub-bottom-fix
+
+! 2021-04-23 https://www.excelsior.com.mx
+excelsior.com.mx##.imx-title-imx-ads
+excelsior.com.mx##.banner--native-node-excelsior
+
+! 2021-04-23 https://www.infobae.com
+infobae.com##.pointer.align_items_center.justify_center.display_flex.fixed.homeButton
+infobae.com##.width_full.tablet-12.desktop-4.widescreen-4.col.\|.right_rail > .dktH10.mobH10.nd-spa
+
+! 2021-04-23 https://elpais.com
+elpais.com##.border_1.border_top.margin_bottom_half.\|.w_h
+
+nationalgeographic.com##+js(aeld, scroll)
+
+! 2021-04-24 https://www.laverdad.es
+laverdad.es##.voc-oferplan
+laverdad.es##.voc-title-sponsored
+laverdad.es##.voc-grid--tablet-like-mobile.voc-grid--AB-C.voc-grid
+||oferplan.laverdad.es^
+
+! 2021-04-24 https://www.laopiniondemurcia.es
+laopiniondemurcia.es##.commercial-up-full__wrapper
+laopiniondemurcia.es##.no-baldomero.hide-mobile.col-xs-12.col-5
+laopiniondemurcia.es##.no-baldomero.hide-mobile.col-4.col-xs-12
+laopiniondemurcia.es##.no-baldomero.no-mobile.col-4.col-xs-12
+laopiniondemurcia.es###pc-div-gpt-ad_html_1000036
+laopiniondemurcia.es##div.no-baldomero.sidebar--sticky__space
+
