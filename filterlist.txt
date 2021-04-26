@@ -288,3 +288,24 @@ laopiniondemurcia.es##.no-baldomero.no-mobile.col-4.col-xs-12
 laopiniondemurcia.es###pc-div-gpt-ad_html_1000036
 laopiniondemurcia.es##div.no-baldomero.sidebar--sticky__space
 
+! 2021-04-24 https://www.telecinco.es
+telecinco.es##.background_color_zeta.ads__ad_container_billboard-3C4O.ads__ad_container-20bh
+telecinco.es###megaSuperior_multisite
+telecinco.es##.background_color_zeta.directo__sidebarMobile-2Dr6
+telecinco.es##.article__alone-1_JJ.article__first_doblerroba_ART-29xd
+
+! 2021-04-25 https://www.elindependiente.com
+elindependiente.com##.wrapper.sub_header
+
+! 2021-04-25 https://www.vozpopuli.com
+vozpopuli.com##.single.home_1_ad.wrapper
+vozpopuli.com##.mpu1.before_widget.sf_sidebar.ad-container
+vozpopuli.com##.mpu2.before_widget.sf_sidebar.ad-container
+vozpopuli.com##.mpu3.before_widget.sf_sidebar.ad-container
+vozpopuli.com##.mpu4.before_widget.sf_sidebar.ad-container
+vozpopuli.com##.home_1_ad.wrapper
+vozpopuli.com###v_espana_mega_1
+vozpopuli.com##.after_header.ad-container
+
+! 2021-04-26 https://www.elconfidencial.com
+elconfidencial.com##div.articleAside__module--isSticky.articleAside__module
