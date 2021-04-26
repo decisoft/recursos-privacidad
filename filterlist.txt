@@ -309,3 +309,14 @@ vozpopuli.com##.after_header.ad-container
 
 ! 2021-04-26 https://www.elconfidencial.com
 elconfidencial.com##div.articleAside__module--isSticky.articleAside__module
+
+! 2021-04-26 https://www.ionos.es
+||ionos.es/digitalguide/typo3conf/ext/ciso_digitalguide/Resources/Public/Icons/ic_close_black_24dp_2x.png
+||ionos.es/digitalguide/fileadmin/user_upload/Stage_Domain.png
+ionos.es###bio_ep
+ionos.es###bio_ep_bg
+
+! 2021-04-26 https://www.tiktok.com
+tiktok.com##.guide-login-banner.jsx-319528883
+tiktok.com##.show.jsx-805738158
+
