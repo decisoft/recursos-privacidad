@@ -63,6 +63,7 @@
 - [Why democracy needs privacy](https://bostonreview.net/science-nature-politics/carissa-veliz-power-privacy): de Carissa Véliz. *
 - [«They "trust me", dumb fucks»](https://www.businessinsider.com/well-these-new-zuckerberg-ims-wont-help-facebooks-privacy-problems-2010-5?international=true&r=US&IR=T): artículo que recoge las declaraciones de Zuckerber cuando Facebook estaba empezando, donde presumía de tener muchísimos datos personales de la gente. *
 - [How Facebook is stalking you even you're offline -and how to limit it](https://medium.com/technology-hits/facebook-is-stalking-you-and-how-to-limit-it-e271456cbe23): a raíz de la filtración.
+- [Data is power](https://www.foreignaffairs.com/articles/united-states/2021-04-16/data-power-new-rules-digital-age).
 
 ## Contenido audiovisual
 
