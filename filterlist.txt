@@ -320,3 +320,36 @@ ionos.es###bio_ep_bg
 tiktok.com##.guide-login-banner.jsx-319528883
 tiktok.com##.show.jsx-805738158
 
+! 2021-04-26 https://www.lavanguardia.com
+lavanguardia.com##aside.sticky-box.module-box-ads
+
+! 2021-04-27 https://sitgesfilmfestival.com
+sitgesfilmfestival.com##.ajs-dimmer
+sitgesfilmfestival.com##.ajs-dialog
+
+! 2021-04-27 https://dircomfidencial.com
+dircomfidencial.com##.code-block-22.code-block
+dircomfidencial.com##.code-block-16.code-block
+dircomfidencial.com##.code-block-17.code-block
+
+! 2021-04-27 https://www.lainformacion.com
+lainformacion.com##div.lane-750.axds-lane
+
+! 2021-04-27 https://es.gizmodo.com
+es.gizmodo.com##.js_sticky-footer.eRJXHT.sc-1bdg1q0-0
+
+! 2021-04-27 https://friends.fandom.com
+##.WikiaBarWrapper
+
+! 2021-04-28 https://www.theguardian.com
+theguardian.com##.css-9aekbr
+
+! 2021-04-28 https://www.revistagq.com
+revistagq.com##.cns--FUEL_AD.ad.fYLbxZ.sc-bdVaJa
+revistagq.com##.bwbpQY.FourUpCol-hk6ts4-0.Col-sc-8fdd29-3.dcdMpn.BaseCol-sc-8fdd29-2
+
+! 2021-04-29 https://es.aliexpress.com
+es.aliexpress.com##.drogue-poplayer-modal
+
+! 2021-04-29 https://www.letras.com
+letras.com##.cnt-space-top
