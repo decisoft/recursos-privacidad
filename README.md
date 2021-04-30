@@ -104,7 +104,8 @@
 ## Otros recursos
 
 - [Techtopias](https://techtopias.com/): newsletter sobre privacidad.
-- [Cryptomator](https://cryptomator.org/downloads/)
+- [Cryptomator](https://cryptomator.org/downloads/).
+- [Front-end para Google Traductor](https://translate.metalune.xyz/?).
 
 ## NAS, Docker y relacionado
 
