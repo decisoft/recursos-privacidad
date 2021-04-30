@@ -353,3 +353,9 @@ es.aliexpress.com##.drogue-poplayer-modal
 
 ! 2021-04-29 https://www.letras.com
 letras.com##.cnt-space-top
+
+! 2021-04-30 https://www.publico.es
+publico.es##.megabanner-left.pb-ads
+publico.es##.pb-ads-count.henneoHB.js-ads-fixed
+
+##.sticky.bottom-strip.bg-white.affix
