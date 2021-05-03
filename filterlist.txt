@@ -359,3 +359,17 @@ publico.es##.megabanner-left.pb-ads
 publico.es##.pb-ads-count.henneoHB.js-ads-fixed
 
 ##.sticky.bottom-strip.bg-white.affix
+
+! 2021-04-30 https://www.meteoblue.com
+meteoblue.com##.gdpr_message
+
+! 2021-04-30 https://www.scoopwhoop.com
+scoopwhoop.com###da-top
+
+! 2021-04-30 https://diariodeavisos.elespanol.com
+diariodeavisos.elespanol.com##.padding-JC.ad660
+
+ethic.es##.banner-image.banner-track
+
+! 2021-05-02 https://www.muylinux.com
+muylinux.com##.et_bloom_success_action.et_bloom_flyin_bottom_inline.et_flyin_1_field.et_bloom_animation_slideup.et_bloom_form_text_light.et_bloom_rounded.et_bloom_border_position_full.et_bloom_border_solid.et_bloom_with_border.carrot_edge.with_edge.et_bloom_form_bottom.et_bloom_form_container
