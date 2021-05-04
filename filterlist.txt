@@ -373,3 +373,12 @@ ethic.es##.banner-image.banner-track
 
 ! 2021-05-02 https://www.muylinux.com
 muylinux.com##.et_bloom_success_action.et_bloom_flyin_bottom_inline.et_flyin_1_field.et_bloom_animation_slideup.et_bloom_form_text_light.et_bloom_rounded.et_bloom_border_position_full.et_bloom_border_solid.et_bloom_with_border.carrot_edge.with_edge.et_bloom_form_bottom.et_bloom_form_container
+
+! 2021-05-03 https://ethic.es
+ethic.es##article.small.item:nth-of-type(2)
+
+! 2021-05-03 https://larepublica.pe
+larepublica.pe##.aside-ads-top
+
+! 2021-05-04 https://www.eldia.es
+eldia.es##div.no-baldomero.sidebar--sticky__space
