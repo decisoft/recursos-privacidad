@@ -382,3 +382,10 @@ larepublica.pe##.aside-ads-top
 
 ! 2021-05-04 https://www.eldia.es
 eldia.es##div.no-baldomero.sidebar--sticky__space
+
+! 2021-05-04 https://www.forbes.com
+forbes.com##fbs-ad
+forbes.com##p:nth-of-type(11)
+
+! 2021-05-05 https://www.laptopmag.com
+laptopmag.com##.mobile-leaderboard-320-50
