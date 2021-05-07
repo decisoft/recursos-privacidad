@@ -389,3 +389,13 @@ forbes.com##p:nth-of-type(11)
 
 ! 2021-05-05 https://www.laptopmag.com
 laptopmag.com##.mobile-leaderboard-320-50
+
+! 2021-05-06 https://lavanguardia.com
+lavanguardia.com##.container-fluid
+lavanguardia.com##div.container-freehtml.full.container
+
+! 2021-05-06 https://datoweb.com
+datoweb.com##.cookies
+
+!2021-05-07 https://megamedia.es
+megamedia.es#@##cookie_hdr_showagain
