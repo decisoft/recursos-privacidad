@@ -399,3 +399,9 @@ datoweb.com##.cookies
 
 !2021-05-07 https://megamedia.es
 megamedia.es#@##cookie_hdr_showagain
+
+! 2021-05-07 https://ciberpatrulla.com
+ciberpatrulla.com###cp_popup_id_18559 > .cpro-overlay
+
+! 2021-05-07 https://libreriaproteo.com
+libreriaproteo.com#@##modalCookies
