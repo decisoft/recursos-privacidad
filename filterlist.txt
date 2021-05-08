@@ -405,3 +405,9 @@ ciberpatrulla.com###cp_popup_id_18559 > .cpro-overlay
 
 ! 2021-05-07 https://libreriaproteo.com
 libreriaproteo.com#@##modalCookies
+
+! 2021-05-08 https://www.compromisoempresarial.com
+www.compromisoempresarial.com##.banner-members
+
+! 2021-05-08 Malware and spyware
+||nav-goo.com^
