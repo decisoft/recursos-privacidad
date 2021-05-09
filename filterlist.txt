@@ -81,11 +81,6 @@ elconfidencial.com###roba_a28df2d6-a1bd-11eb-bb75-005056012d97
 elconfidencial.com###boton_a28deaa2-a1bd-11eb-a41c-005056012d97
 elconfidencial.com###roba_a28dd5da-a1bd-11eb-8fe0-005056012d97
 
-! Block "Inicia sesión en Youtube" 
-youtube.com##.opened
-youtube.com###dialog
-||gstatic.com/youtube/img/promos/growth/dmod_si_horizontal_ver1_240x400.png$image
-
 ! Fix blank space interflora.es
 interflora.es##.block-busca-ramo
 
@@ -418,3 +413,12 @@ eleconomista.es##.sticky_bottom_banner.b960n
 ! 2021-05-09 https://es.greenpeace.org
 es.greenpeace.org###cookiePromptCenter
 es.greenpeace.org##.show.fade.modal-backdrop
+
+! 2021-05-08 https://www.slidescarnival.com
+slidescarnival.com##article.type-post.post:nth-of-type(2)
+slidescarnival.com##article.type-post.post:nth-of-type(9)
+slidescarnival.com##article.type-post.post:nth-of-type(13)
+
+! 2021-05-09 https://www.elindependiente.com
+elindependiente.com###right2
+elindependiente.com###right3
