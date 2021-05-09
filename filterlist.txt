@@ -411,3 +411,10 @@ www.compromisoempresarial.com##.banner-members
 
 ! 2021-05-08 Malware and spyware
 ||nav-goo.com^
+
+! 2021-05-09 https://www.eleconomista.es
+eleconomista.es##.sticky_bottom_banner.b960n
+
+! 2021-05-09 https://es.greenpeace.org
+es.greenpeace.org###cookiePromptCenter
+es.greenpeace.org##.show.fade.modal-backdrop
