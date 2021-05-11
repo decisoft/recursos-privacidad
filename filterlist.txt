@@ -422,3 +422,18 @@ slidescarnival.com##article.type-post.post:nth-of-type(13)
 ! 2021-05-09 https://www.elindependiente.com
 elindependiente.com###right2
 elindependiente.com###right3
+
+! 2021-05-09 https://www.lne.es
+lne.es##.commercial-up-full__wrapper
+
+! 2021-05-11 https://blog.oxfamintermon.org
+blog.oxfamintermon.org##.sgpb-popup-overlay.sgpb-popup-overlay-25287.sgpb-theme-2-overlay
+||blog.oxfamintermon.org/wp-content/uploads/2021/02/POP-UP-BLOGIQS_ParaUnebox.png$image
+blog.oxfamintermon.org##.sgpb-popup-dialog-main-div-theme-wrapper-2
+
+! 2021-05-11 https://www.lainformacion.com
+lainformacion.com###axds-Top
+
+! 2021-05-11 https://autosolar.es
+autosolar.es##.cookie-configuration
+
