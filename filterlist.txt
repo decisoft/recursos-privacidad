@@ -437,3 +437,13 @@ lainformacion.com###axds-Top
 ! 2021-05-11 https://autosolar.es
 autosolar.es##.cookie-configuration
 
+! 2021-05-11 https://www.abc.es
+abc.es##.in.test-window.ev-open-modal-notifier-all.ng-isolate-scope.fade.show.modal
+abc.es##.in.fade.modal-backdrop
+
+! 2021-05-12 https://slidesgo.com
+||slidesgo.com/ssmas/fi.html$subdocument
+slidesgo.com##.relative.border-gray-250.border.mb-6
+
+! 2021-05-13 https://www.20minutos.es
+20minutos.es###m35-34-36 > .module.free-content
