@@ -447,3 +447,10 @@ slidesgo.com##.relative.border-gray-250.border.mb-6
 
 ! 2021-05-13 https://www.20minutos.es
 20minutos.es###m35-34-36 > .module.free-content
+
+! 2021-05-14 https://www.logitravel.com Unbreak
+@@||cdn.logitravel.com/resources/javascript/home/cookies/lib/oil.1.3.5-RELEASE.min.js?v=1.0$script,domain=www.logitravel.com
+logitravel.com#@#.as-oil
+logitravel.com#@#.as-oil-content-overlay
+logitravel.com#@#.as-oil[data-qa="oil-Layer"]
+logitravel.com##.nav-middle__modal
