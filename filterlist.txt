@@ -455,6 +455,9 @@ logitravel.com#@#.as-oil-content-overlay
 logitravel.com#@#.as-oil[data-qa="oil-Layer"]
 logitravel.com##.nav-middle__modal
 
-!2021-05-16 https://bintercanarias.com 
+! 2021-05-16 https://bintercanarias.com 
 bintercanarias.com#@##cookiesPolicy
 bintercanarias.com#@#.ui-widget[aria-labelledby*="cookie"]
+
+! 2021-05-16 Remove tracker from URL
+$removeparam=/^ssm=/
