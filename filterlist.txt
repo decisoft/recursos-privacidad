@@ -1,11 +1,78 @@
 ! Title: Custom filter list
-! Description: Custom filters optimized for uBlock Origin, to be used with Easy
-!              List Cookies and Adguard's "Annoyances" lists.
+! Description: Custom filters optimized for uBlock Origin, to improve
+!          protection vs annoyances & trackers.
 ! Expires: 1 day
 ! License: https://creativecommons.org/licenses/by/3.0/
 ! Homepage: https://github.com/decisoft/recursos-privacidad
 ! Forums: https://github.com/decisoft/recursos-privacidad/issues
 
+! General protection vs trackers and analytics !
+
+! Remove trackers from URLs 
+! From https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
+$removeparam=guccounter
+$removeparam=guce_referrer
+$removeparam=guce_referrer_sig
+$removeparam=_openstat
+$removeparam=action_object_map
+$removeparam=action_ref_map
+$removeparam=action_type_map
+$removeparam=fb_action_ids
+$removeparam=fb_action_types
+$removeparam=fb_comment_id
+$removeparam=fb_ref
+$removeparam=fb_source
+$removeparam=fbclid
+$removeparam=gclid
+$removeparam=utm_campaign
+$removeparam=utm_channel
+$removeparam=utm_cid
+$removeparam=utm_content
+$removeparam=utm_medium
+$removeparam=utm_name
+$removeparam=utm_place
+$removeparam=utm_pubreferrer
+$removeparam=utm_reader
+$removeparam=utm_referrer
+$removeparam=utm_social
+$removeparam=utm_social-type
+$removeparam=utm_source
+$removeparam=utm_swu
+$removeparam=utm_term
+$removeparam=utm_userid
+$removeparam=utm_viz_id
+$removeparam=yclid
+
+! The rules for specific sites
+||visit.digidip.net^$removeparam=/^(ppref|ref|pid)=/
+||ad.admitad.com/g/$removeparam=subid
+||mvideo.ru^$removeparam=/^(_requestid|reff)=/
+||nytimes.com^$removeparam=impression_id
+! https://github.com/AdguardTeam/AdguardFilters/issues/69722
+||digikey.com^$removeparam=/^mkt_tok/
+||digikey.com^$removeparam=/^utm_cid/
+
+! Fixing filtering errors
+! https://github.com/AdguardTeam/AdguardFilters/issues/78392
+@@||lanacion.com.ar/*module$removeparam=utm_source
+! https://github.com/AdguardTeam/AdguardFilters/issues/69031 [Stealth Mode - Strip URLs from tracking parameters]
+@@||t.send.vt.edu/r/?id=$removeparam=utm_source
+@@||t.send.vt.edu/r/?id=$removeparam=utm_medium
+@@||t.send.vt.edu/r/?id=$removeparam=utm_campaign
+! https://github.com/AdguardTeam/AdguardFilters/issues/52925
+@@||auto-swiat.pl/*&srcc=ucs$removeparam
+@@||komputerswiat.pl/*&srcc=ucs$removeparam
+@@||noizz.pl/*&srcc=ucs$removeparam
+@@||plejada.pl/*&srcc=ucs$removeparam
+@@||medonet.pl/*&srcc=ucs$removeparam
+@@||businessinsider.com.pl/*&srcc=ucs$removeparam
+! https://github.com/AdguardTeam/AdguardFilters/issues/63522
+@@||onet.pl/?utm_source=$removeparam
+
+! Customs !
+$removeparam=/^ssm=/
+
+! Block trackers !
 ! Added from https://d3ward.github.io/toolz/src/adblock
 ||widgets.pinterest.com^
 ||analytics.pinterest.com^
@@ -459,5 +526,3 @@ logitravel.com##.nav-middle__modal
 bintercanarias.com#@##cookiesPolicy
 bintercanarias.com#@#.ui-widget[aria-labelledby*="cookie"]
 
-! 2021-05-16 Remove tracker from URL
-$removeparam=/^ssm=/
