@@ -71,6 +71,9 @@ $removeparam=yclid
 
 ! Customs !
 $removeparam=/^ssm=/
+$removeparam=/^desktop=/
+$removeparam=/^segmentId=/
+$removeparam=/^linkId=/
 
 ! Block trackers !
 ! Added from https://d3ward.github.io/toolz/src/adblock
