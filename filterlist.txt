@@ -529,3 +529,16 @@ logitravel.com##.nav-middle__modal
 bintercanarias.com#@##cookiesPolicy
 bintercanarias.com#@#.ui-widget[aria-labelledby*="cookie"]
 
+! 2021-05-14 https://www.viajeroscallejeros.com
+viajeroscallejeros.com##.widget-area.sidebar-primary.sidebar
+
+! 2021-05-18 https://www.npr.org
+npr.org##.global-modal__overlay
+npr.org##.callout--donation-embedded.callout--donation.callout
+
+! 2021-05-19 https://www.lanacion.com.ar
+www.lanacion.com.ar##.--cabezal_dsk.mod-banner
+
+! 2021-05-19 https://iberiaexpress.com Unbreak
+iberiaexpress.com#@#.cookies-modal:not(body):not(html)
+
