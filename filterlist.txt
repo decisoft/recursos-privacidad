@@ -75,6 +75,7 @@ $removeparam=/^desktop=/
 $removeparam=/^segmentId=/
 $removeparam=/^linkId=/
 $removeparam=/^sfnsn=/
+$removeparam=/^cid=/
 
 ! Block trackers !
 ! Added from https://d3ward.github.io/toolz/src/adblock
