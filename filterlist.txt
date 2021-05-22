@@ -76,6 +76,8 @@ $removeparam=/^segmentId=/
 $removeparam=/^linkId=/
 $removeparam=/^sfnsn=/
 $removeparam=/^cid=/
+$removeparam=/^_ga/
+
 
 ! Block trackers !
 ! Added from https://d3ward.github.io/toolz/src/adblock
@@ -544,3 +546,10 @@ www.lanacion.com.ar##.--cabezal_dsk.mod-banner
 ! 2021-05-19 https://iberiaexpress.com Unbreak
 iberiaexpress.com#@#.cookies-modal:not(body):not(html)
 
+! 2021-05-21 https://www.motopoliza.com
+motopoliza.com###popup
+motopoliza.com###capaAvisoAbsurdoCookies
+
+! 2021-05-21 https://www.kayak.es
+kayak.es###rejr-dialog > .viewport
+kayak.es###rejr-dialog > .modalBackground
