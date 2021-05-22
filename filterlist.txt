@@ -10,6 +10,7 @@
 
 ! Remove trackers from URLs 
 ! From https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
+$removeparam=asgtbndr
 $removeparam=guccounter
 $removeparam=guce_referrer
 $removeparam=guce_referrer_sig
@@ -68,6 +69,8 @@ $removeparam=yclid
 @@||businessinsider.com.pl/*&srcc=ucs$removeparam
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63522
 @@||onet.pl/?utm_source=$removeparam
+! kotaku.com - "See all replies" button broken
+@@||kotaku.com/embed/comments$removeparam
 
 ! Customs !
 $removeparam=/^ssm=/
