@@ -615,3 +615,12 @@ tradingdraft.com###screen-51 > .bottom_desktop_placeholder
 tradingdraft.com###screen-52 > .bottom_desktop_placeholder
 tradingdraft.com###screen-53 > .bottom_desktop_placeholder
 tradingdraft.com###screen-54 > .bottom_desktop_placeholder
+
+! 2021-05-23 https://www.sport.es
+www.sport.es##.minHeightLong.following-ad-container
+
+! 2021-05-23 https://kaosenlared.net
+kaosenlared.net##.uobgp-clearfix.uobgp-column-1.uobgp-align-center.uobgp-float-center.uobgp-post-top.uobgp
+
+! 2021-05-24 https://www.canaryfly.es
+www.canaryfly.es##.ui-front.ui-widget-overlay
