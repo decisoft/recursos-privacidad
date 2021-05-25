@@ -121,6 +121,7 @@
 - [Listas de bloqueo para PiHole y derivados](https://firebog.net/).
 - [SWAY](https://beta.swayme.xyz/): web con guías para autoalojar todos nuestros servicios.
 - [Guía de Carpe Diem (NASEROS) sobre su NAS DIY](https://telegra.ph/NAS-OverKiller-porque-simplemente-mejor-nunca-es-suficiente-02-16). 
+- [WG-Easy: WireGuard + Web UI](https://github.com/WeeJeWel/wg-easy).
 
 ## Copias de seguridad
 
