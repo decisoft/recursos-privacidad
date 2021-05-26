@@ -8,10 +8,10 @@ Si llegas aquí y echas un servicio en falta que utilices, por favor, ¡añádel
 
 ## Índice
 
-- [Antes de empezar](https://github.com/decisoft/recursos-privacidad/#)
-- [Docker]().
-- [Acceso seguro desde el exterior]().
-- [Servicios]().
+- [Antes de empezar](https://github.com/decisoft/recursos-privacidad/blob/main/raspberry.md#atenci%C3%B3n-antes-de-empezar)
+- [Docker](https://github.com/decisoft/recursos-privacidad/blob/main/raspberry.md#docker).
+- [Acceso seguro desde el exterior](https://github.com/decisoft/recursos-privacidad/blob/main/raspberry.md#acceso-desde-el-exterior-vpn--ddns).
+- [Servicios](https://github.com/decisoft/recursos-privacidad/blob/main/raspberry.md#a-la-carga-servicios-que-puedes-alojar).
 
 ## ¡Atención! Antes de empezar
 
