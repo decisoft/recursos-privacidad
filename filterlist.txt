@@ -624,3 +624,13 @@ kaosenlared.net##.uobgp-clearfix.uobgp-column-1.uobgp-align-center.uobgp-float-c
 
 ! 2021-05-24 https://www.canaryfly.es
 www.canaryfly.es##.ui-front.ui-widget-overlay
+hipertextual.com##.scaip.scaip-1
+hipertextual.com##.scaip.scaip-2
+hipertextual.com##.scaip.scaip-3
+
+! 2021-05-25 https://www.indiatoday.in
+indiatoday.in##.story-recommended-chunk
+
+! 2021-05-25 https://jazztel.com
+jazztel.com##.contenedor_llama
+jazztel.com##.contenedor_principal.d-none.d-md-flex.row
