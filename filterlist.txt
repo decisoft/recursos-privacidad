@@ -634,3 +634,13 @@ indiatoday.in##.story-recommended-chunk
 ! 2021-05-25 https://jazztel.com
 jazztel.com##.contenedor_llama
 jazztel.com##.contenedor_principal.d-none.d-md-flex.row
+
+! 2021-05-27 https://www.politicaexterior.com
+www.politicaexterior.com##.floor-ad
+
+! 2021-05-28 https://www.zdnet.com
+www.zdnet.com##.ot-fade-in.onetrust-pc-dark-filter
+
+! Unbreak
+dailymotion.com#@#div[class*="TCF2Banner"], div[class*="CookieGdpr"], div[class*="CookiePopup"]
+dailymotion.com#@#div[class^="TCF2Banner__container__"]
