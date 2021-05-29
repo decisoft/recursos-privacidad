@@ -39,6 +39,11 @@ Una parte importante para levantar los diferentes servicios que corren sobre la 
 - [Docker de DuckDNS](https://hub.docker.com/r/linuxserver/duckdns). DockerHub.
 - **Extra** [WireHole: Wireguard + pi-hole + Unbound](https://github.com/IAmStoxe/wirehole): GitHub. Para uso con DDNS.
 
+## Acceso desde el exterior: proxy inverso + DDNS
+
+- [NGINX proxy manager](https://nginxproxymanager.com/). Disponible en Docker.
+- [SWAG](https://telegra.ph/Como-configurar-SWAG-como-proxy-inverso-en-Unraid-y-cualquier-otro-NAS-usando-docker-05-09). También disponible en Docker, pero de más dificultad. Tutorial realizado por Carpe Diem de NASeros.
+
 ## ¡A la carga! Servicios que puedes alojar
 
 - [Homer](https://github.com/bastienwirtz/homer). Dashboard para tener todos los servicios instalados de un plumazo. También disponible en Docker.
