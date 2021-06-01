@@ -49,11 +49,31 @@ $removeparam=yclid
 ||ad.admitad.com/g/$removeparam=subid
 ||mvideo.ru^$removeparam=/^(_requestid|reff)=/
 ||nytimes.com^$removeparam=impression_id
+! https://github.com/AdguardTeam/AdguardFilters/issues/83138
+||app.mi.com/download/*?id=$removeparam=ref
+||app.mi.com/download/*?id=$removeparam=nonce
+||app.mi.com/download/*?id=$removeparam=appClientId
+||app.mi.com/download/*?id=$removeparam=appSignature
 ! https://github.com/AdguardTeam/AdguardFilters/issues/69722
 ||digikey.com^$removeparam=/^mkt_tok/
 ||digikey.com^$removeparam=/^utm_cid/
+! https://github.com/AdguardTeam/AdguardFilters/issues/83136
+||mp.weixin.qq.com^$removeparam=chksm
+||mp.weixin.qq.com^$removeparam=key
+||mp.weixin.qq.com^$removeparam=uin
+||mp.weixin.qq.com^$removeparam=devicetype
+||mp.weixin.qq.com^$removeparam=exportkey
+! Prevent tracking when request is unblocked
+||pixel.adsafeprotected.com/services/pub?$removeparam=slot
+||pixel.adsafeprotected.com/services/pub?$removeparam=sessionId
+||pixel.adsafeprotected.com/services/pub?$removeparam=anId
+||pixel.adsafeprotected.com/services/pub?$removeparam=wr
+||pixel.adsafeprotected.com/services/pub?$removeparam=sr
+||pixel.adsafeprotected.com/services/pub?$removeparam=url
 
 ! Fixing filtering errors
+! kotaku.com - "See all replies" button broken
+@@||kotaku.com/embed/comments$removeparam
 ! https://github.com/AdguardTeam/AdguardFilters/issues/78392
 @@||lanacion.com.ar/*module$removeparam=utm_source
 ! https://github.com/AdguardTeam/AdguardFilters/issues/69031 [Stealth Mode - Strip URLs from tracking parameters]
@@ -69,8 +89,6 @@ $removeparam=yclid
 @@||businessinsider.com.pl/*&srcc=ucs$removeparam
 ! https://github.com/AdguardTeam/AdguardFilters/issues/63522
 @@||onet.pl/?utm_source=$removeparam
-! kotaku.com - "See all replies" button broken
-@@||kotaku.com/embed/comments$removeparam
 
 ! Customs !
 $removeparam=/^ssm=/
