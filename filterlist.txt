@@ -644,3 +644,13 @@ www.zdnet.com##.ot-fade-in.onetrust-pc-dark-filter
 ! Unbreak
 dailymotion.com#@#div[class*="TCF2Banner"], div[class*="CookieGdpr"], div[class*="CookiePopup"]
 dailymotion.com#@#div[class^="TCF2Banner__container__"]
+
+! 2021-05-30 https://www.marca.com
+marca.com##div.ue-l-article--grow.ue-l-article__secondary-column-item:nth-of-type(2)
+
+! 2021-05-31 https://www.elmundo.es
+elmundo.es##.ue-c-subscription-ad
+
+! 2021-06-01 https://www.wundertech.net
+wundertech.net##.code-block-1.code-block
+wundertech.net##.elementor-widget-heading.elementor-widget.elementor-element-c77be8e.elementor-element > .elementor-widget-container > .code-block-3.code-block
