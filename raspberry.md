@@ -30,6 +30,7 @@ Una parte importante para levantar los diferentes servicios que corren sobre la 
 - [Cómo instalar Docker Compose](https://docs.docker.com/compose/install/).
 - [Algunos docker-compose para iniciados](https://www.reddit.com/r/selfhosted/comments/mdshuv/lets_make_some_newbies_life_better_and_post_a_few/). Ejemplos.
 - [DockSTARTer](https://dockstarter.com/). Documentación.
+- [Portainer](https://www.wundertech.net/portainer-raspberry-pi-install-how-to-install-docker-and-portainer/): gestor gráfico para Docker y docker-compose.
 
 ## Acceso desde el exterior: VPN + DDNS
 
@@ -51,6 +52,7 @@ Una parte importante para levantar los diferentes servicios que corren sobre la 
 - [Send](https://github.com/timvisee/send). Fork de Firefox Send, alternativa local a WeTransfer. También disponible en Docker.
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden). Cliente del gestor de contraseñas de Bitwarden. También disponible en Docker.
 - [Piwigo](https://github.com/Piwigo/Piwigo). Alternativa a Google Fotos. También disponible en Docker gracias a la [gente de LinuxServer.io](https://hub.docker.com/r/linuxserver/piwigo).
+- [PhotoStructure](https://github.com/photostructure/photostructure-for-servers). Alternativa a Google Fotos (para las funciones más avanzadas, tiene un plan de pago). También disponible en Docker.
 - [Monica](https://github.com/monicahq/monica). Gestor de relaciones personales (una especie de calendario + agenda a lo bestia). También disponible en Docker.
 - [Calibre-web](https://github.com/janeczku/calibre-web). Gestor de libros electrónicos. También disponible en Docker.
 - [HomeAssistant](https://github.com/home-assistant/core). Gestor de domótica. También disponible en Docker.
