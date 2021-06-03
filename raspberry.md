@@ -43,7 +43,7 @@ Una parte importante para levantar los diferentes servicios que corren sobre la 
 ## Acceso desde el exterior: proxy inverso + DDNS
 
 - [NGINX proxy manager](https://nginxproxymanager.com/). Disponible en Docker.
-- [SWAG](https://telegra.ph/Como-configurar-SWAG-como-proxy-inverso-en-Unraid-y-cualquier-otro-NAS-usando-docker-05-09). También disponible en Docker, pero de más dificultad. Tutorial realizado por Carpe Diem de NASeros.
+- [SWAG](https://telegra.ph/Como-configurar-SWAG-como-proxy-inverso-en-Unraid-y-cualquier-otro-NAS-usando-docker-05-09). También disponible en Docker, pero de más dificultad. Tutorial realizado por Carpe Diem de NASeros. (Para cambiar las networks internas del docker sin eliminarlo y volver a empezar, está este [tutorial](https://stackoverflow.com/questions/54720587/how-to-change-the-network-of-a-running-docker-container)).
 
 ## ¡A la carga! Servicios que puedes alojar
 
