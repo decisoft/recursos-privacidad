@@ -1,0 +1,23 @@
+**NEXTDNS →** [https://nextdns.io](https://nextdns.io/)
+
+1. En la página, le damos a «TRY IT NOW», que nos llevará a la página de configuración como la siguiente.
+2. Lo vital en esta página son los **ID** (subrayado), pues ese código es como el usuario, el que activa el servicio. En el cuadrado rojo está el menú de configuraciones (una configuración=un dispositivo), que lo usaremos luego. Puedes registrarte ahora o al final, da igual (mejor al principio para que no se pierda nada, no vaya a ser).
+3. Después del registro, vamos a configurar el perfil del móvil. Vamos a la pestaña de «Privacidad», que es donde se eligen las listas que van a filtrar y bloquear los dominios relacionados con el rastreo y los anuncios. Esta parte es fundamental, porque la elección de las listas es la que determina la cantidad de «falsos positivos» que nos podemos encontrar. Es decir, a más listas activas, más probabilidades de que alguna aplicación o web nos falle. Por eso, cuantas menos mejor, y mejor listas que sean ampliamente utilizadas. Esas son la siguientes: Lista de bloqueo de anuncios y rastreadores de NextDNS (viene activada por defecto), Steven Black, oisd y 1Hosts (lite). También da la opción, nativamente, de incorporar una lista con los rastreadores/anuncios propios de cada dispositivo, que se puede poner en la parte de «Protección de rastreo nativo».
+4. La siguiente pestaña que vamos a usar es **Lista blanca** , que es donde vamos a configurar las excepciones: es decir, desbloquear dominios que alguna lista haya podido bloquear. Esto es útil por si justamente alguna vez tenemos algún problema, desbloqueamos el dominio y listo. Simplemente se escribe el dominio en la casilla, y enter. Los que tengo yo son: adtidy.org (una lista de uBlock), streamplay.to (pelis y series), seriesly.org (ok más de lo mismo), cdn.shortpixel.ai (Tripticum, lol).
+5. El siguiente paso es ir a la pestaña de **Ajustes** , para terminar de configurar. Aquí, le cambiamos el nombre de &quot;Mi primera configuración&quot; a &quot;Móvil&quot;, para tenerla bien localizada. También cambiamos el lugar donde se guardan los registros (los registros son útiles para ver qué se bloquea y qué no) de Estados Unidos a LA UNIÓN EUROPEA 🇪🇺.
+6. Una vez terminado el perfil/configuración del móvil, le damos a la pestañita al lado del logo, desplegamos y le damos a &quot;Nueva&quot;.
+7. Nos aparecerá una ventana para que le digamos qué nombre queremos, le ponemos Ordenador y le damos a crear.
+8. Repetimos proceso, pero esta vez adaptando las listas de bloqueo al ordenador. Vamos a la pestaña de **Privacidad** y seleccionamos las siguientes listas: oisd, WindowsSpyBlocker (Spy) y 1Hosts (Lite). En _Protección de rastreo nativo_, añadimos Windows.
+9. Ahora pasamos directamente a la pestaña de **Ajustes**. Aquí ahora solo tenemos que cambiar la ubicación de Estados Unidos a LA UNIÓN EUROPEA 🇪🇺.
+
+**CONFIGURACIÓN EN LOS DISPOSITIVOS**
+
+Ahora solo queda decirle al ordenador (y al navegador) y al móvil que utilice NextDNS para filtrar el rastreo y los anuncios.
+
+1. Para el ordenador, en la pestaña principal **Instalación** , deslizamos hacia abajo, seleccionamos Windows, descargamos el programa y seguimos las instrucciones que salen ahí mismo.
+2. Para el móvil, hay dos opciones.
+  1. Una, la fácil, es descargar la aplicación de NextDNS y configurarla como en el móvil, metiendo el ID (de la configuración, hay que recordar que hay un ID por cada configuración). Esta permite activar y desactivar sobre la marcha el bloqueo (por si en algún momento no funciona o bloquea demasiado y no quedarnos sin la aplicación o sin internet).
+  2. La dos, también fácil pero algo más técnica, es configurando el DNS privado en Android. Dependiendo del móvil y marca, estará en un sitio u otro de los ajustes (todos ya traen una función de búsqueda en los ajustes, así que si no la ubicamos, buscamos &quot;DNS&quot; y saldrá). Le damos a DNS privado (o personalizado) y aquí en vez del ID metemos el enlace de **DNS-over-TLS/QUIC**. Y listo.
+3. Aunque teniéndolo instalado en el ordenador ya filtra cualquier petición de rastreo/publicidad dentro y fuera del navegador, como las peticiones son limitadas (300 mil al mes, da de sobra pero por si aca), podemos configurar Firefox para que use la lista estándar de NextDNS y no nos cuente. Vamos a Ajustes > General, deslizamos hasta el final > Configuración de red > Marcamos Activar DNS sobre HTTPS > y de la lista seleccionamos NextDNS. Y ya estaría.
+
+¡Listo!
