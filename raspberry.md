@@ -44,6 +44,7 @@ Una parte importante para levantar los diferentes servicios que corren sobre la 
 
 - [NGINX proxy manager](https://nginxproxymanager.com/). Disponible en Docker.
 - [SWAG](https://telegra.ph/Como-configurar-SWAG-como-proxy-inverso-en-Unraid-y-cualquier-otro-NAS-usando-docker-05-09). También disponible en Docker, pero de más dificultad. Tutorial realizado por Carpe Diem de NASeros. (Para cambiar las networks internas del docker sin eliminarlo y volver a empezar, está este [tutorial](https://stackoverflow.com/questions/54720587/how-to-change-the-network-of-a-running-docker-container)).
+- [NGINX Proxy Manager](https://www.domysee.com/blogposts/reverse-proxy-nginx-docker-compose). Tutorial en inglés, con docker-compose.
 
 ## ¡A la carga! Servicios que puedes alojar
 
@@ -58,3 +59,5 @@ Una parte importante para levantar los diferentes servicios que corren sobre la 
 - [HomeAssistant](https://github.com/home-assistant/core). Gestor de domótica. También disponible en Docker.
 - [Paperless-ng](https://github.com/jonaswinkler/paperless-ng). Para la digitalización de documentos. También disponible en Docker.
 - [Standard Notes](https://github.com/standardnotes/web). Aplicación para tomar notas e2e. También disponible en Docker.
+- [PiGallery](https://github.com/bpatrik/pigallery2). Alternativa a Google Photos. Solo en Docker.
+- [SiteInspector](https://www.getsiteinspector.com/). Para analizar errores y enlaces rotos en web. Solo en Docker.
