@@ -672,3 +672,9 @@ elmundo.es##.ue-c-subscription-ad
 ! 2021-06-01 https://www.wundertech.net
 wundertech.net##.code-block-1.code-block
 wundertech.net##.elementor-widget-heading.elementor-widget.elementor-element-c77be8e.elementor-element > .elementor-widget-container > .code-block-3.code-block
+
+! 2021-06-04 https://rootear.com
+rootear.com###facebook-flyer-2
+
+! 2021-06-05 https://comiviajeros.com
+comiviajeros.com###mc_sticky_comiviajeros
