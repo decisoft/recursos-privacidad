@@ -61,3 +61,8 @@ Una parte importante para levantar los diferentes servicios que corren sobre la 
 - [Standard Notes](https://github.com/standardnotes/web). Aplicación para tomar notas e2e. También disponible en Docker.
 - [PiGallery](https://github.com/bpatrik/pigallery2). Alternativa a Google Photos. Solo en Docker.
 - [SiteInspector](https://www.getsiteinspector.com/). Para analizar errores y enlaces rotos en web. Solo en Docker.
+- [Wallabag](https://hub.docker.com/r/wallabag/wallabag/). Alternativa a Pocket para guardar marcadores y artículos para leer más tarde. También disponible en Docker.
+
+## Nivel intermedio
+
+- [Authelia](https://github.com/authelia/authelia). Single Sign-On. También disponible en Docker.
