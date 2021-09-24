@@ -6,7 +6,7 @@ apt upgrade
 curl -fsSL https://get.docker.com -o get-docker.sh
 sh get-docker.sh
 
-apt-get install libffi-dev libssl-dev
+apt-get install libffi-dev libssl-dev neofetch
 apt install python3-dev
 apt-get install -y python3 python3-pip
 
