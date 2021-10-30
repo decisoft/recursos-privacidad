@@ -8,15 +8,10 @@ apt install -y software-properties-common
 add-apt-repository -y ppa:philip.scott/pantheon-tweaks
 apt install -y pantheon-tweaks
 apt install git build-essential vim curl wget zsh xclip xsel neofetch python3-pip
+flatpak remote-add --system --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
 apt update
 apt upgrade
-
-echo ** NextDNS **
-
-sh -c "$(curl -sL https://nextdns.io/install)"
-
-echo ** Docker ** && cd Descargas && curl -fsSL https://get.docker.com -o get-docker.sh && sh get-docker.sh
 
 echo ** Mullvad VPN ** && wget https://mullvad.net/download/app/deb/latest/ && echo Recuerda que tienes que instalar este paquete a través de Eddy.sh
 
@@ -46,14 +41,16 @@ echo ** VLC ** && flatpak install flathub org.videolan.VLC && echo ¡Listo!
 
 echo ** Typora ** && flatpak install flathub io.typora.Typora && echo ¡Listo!
 
+echo ** HandBrake ** && flatpak install flathub fr.handbrake.ghb && echo ¡Listo!
+
+echo ** Byte ** && flatpak install flathub com.github.alainm23.byte && echo ¡Listo!
+
 echo ** Ungoogled Chromium ** && flatpak install flathub com.github.Eloston.UngoogledChromium && echo ¡Listo!
 
-echo ** Tor Browser** && flatpak install flathub com.github.micahflee.torbrowser-launcher && echo ¡Listo!
-
-echo ** Vocal Podcast ** && flatpak install flathub com.github.needleandthread.vocal && echo ¡Listo!
-
-echo ** Brave ** && apt install apt-transport-https curl && curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg && echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list && apt update && apt install brave-browser && echo ¡Listo!
+echo ** Brave ** && apt install apt-transport-https curl && curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg && echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main"| tee /etc/apt/sources.list.d/brave-browser-release.list && apt update && apt install brave-browser && echo ¡Listo!
 
 echo ** Ulauncher ** && wget https://github.com/Ulauncher/Ulauncher/releases/download/5.11.0/ulauncher_5.11.0_all.deb && echo Recuerda ejecutarlo en Eddy
 
 echo ** qbittorrent ** && flatpak install flathub org.qbittorrent.qBittorrent && echo ¡Listo!
+
+echo ** Syncthing ** && wget https://github.com/syncthing/syncthing/releases/download/v1.18.3/syncthing-linux-amd64-v1.18.3.tar.gz
