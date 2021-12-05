@@ -1,5 +1,5 @@
 #!/bin/bash
-echo ¡Hola, Jesús!
+echo Hola, Jesus
 
 echo Vamos a reinstalar todos tus programas y repositorios para dejarlo como antes en esta nueva instalación
 
