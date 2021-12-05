@@ -21,8 +21,6 @@ echo ** OnlyOffice ** && flatpak install flathub org.onlyoffice.desktopeditors &
 
 echo ** Calibre ** && flatpak install flathub com.calibre_ebook.calibre && echo ¡Listo!
 
-echo ** Discord ** && flatpak install flathub com.discordapp.Discord && echo ¡Listo!
-
 echo ** PDF Tricks ** && flatpak install flathub com.github.muriloventuroso.pdftricks && echo ¡Listo!
 
 echo ** VLC ** && flatpak install flathub org.videolan.VLC && echo ¡Listo!
@@ -32,3 +30,5 @@ echo ** Typora ** && flatpak install flathub io.typora.Typora && echo ¡Listo!
 echo ** Byte ** && flatpak install flathub com.github.alainm23.byte && echo ¡Listo!
 
 echo ** Ungoogled Chromium ** && flatpak install flathub com.github.Eloston.UngoogledChromium && echo ¡Listo!
+
+echo ** Brave ** && dnf install dnf-plugins-core && dnf config-manager --add-repo https://brave-browser-rpm-release.s3.brave.com/x86_64/ && rpm --import https://brave-browser-rpm-release.s3.brave.com/brave-core.asc && dnf install brave-browser
