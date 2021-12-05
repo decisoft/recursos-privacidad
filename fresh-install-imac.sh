@@ -6,8 +6,7 @@ echo Vamos a reinstalar todos tus programas y repositorios para dejarlo como ant
 
 apt install -y software-properties-common
 add-apt-repository -y ppa:philip.scott/pantheon-tweaks
-apt install -y pantheon-tweaks
-apt install git build-essential vim curl wget zsh xclip xsel neofetch python3-pip
+apt install -y pantheon-tweaks git build-essential vim curl wget zsh xclip xsel neofetch python3-pip
 flatpak remote-add --system --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
 apt update
