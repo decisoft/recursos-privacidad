@@ -6,7 +6,10 @@ echo Vamos a reinstalar todos tus programas y repositorios para dejarlo como ant
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
 dnf -y update
-dnf -y install neofetch git curl wget zsh xclip xsel
+dnf -y install neofetch git curl wget zsh xclip xsel syncthing gnome-tweak-tool
+dnf install gstreamer1-plugins-{bad-\*,good-\*,base} gstreamer1-plugin-openh264 gstreamer1-libav --exclude=gstreamer1-plugins-bad-free-devel
+dnf install lame\* --exclude=lame-devel
+dnf group upgrade --with-optional Multimedia
 
 echo ** Firefox ** && flatpak install flathub org.mozilla.firefox && echo ¡Listo!
 
