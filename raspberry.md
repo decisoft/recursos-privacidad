@@ -1,6 +1,6 @@
 # Recursos para Raspberry Pi: tutoriales, consejos y utilidades
 
-En este apartado encontrarás recursos para tu Raspberry Pi. Hay consejos, tutoriales y, sobre todo, servicios que puedes alojar. Ya sabes que hay mil listas de opciones a alojar, como esta de [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted), pero puede abrumar de la cantidad de software que hay en cada categoría. 
+En este apartado encontrarás recursos para tu Raspberry Pi. Hay consejos, tutoriales y, sobre todo, servicios que puedes alojar. Ya sabes que hay mil listas de opciones a alojar, como esta de [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted), pero puede asustar la cantidad de software que hay en cada categoría. 
 
 Así que aquí te presentamos una pequeña selección, con los programas que uso y que la comunidad ha contribuido a esta lista, porque han sido probados por los usuarios y son su día a día.
 
